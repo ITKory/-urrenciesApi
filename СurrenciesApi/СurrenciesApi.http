@@ -1,0 +1,6 @@
+@СurrenciesApi_HostAddress = http://localhost:5198
+
+GET {{СurrenciesApi_HostAddress}}/
+Accept: application/json
+
+ 
